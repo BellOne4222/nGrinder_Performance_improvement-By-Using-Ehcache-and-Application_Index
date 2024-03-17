@@ -4,6 +4,12 @@
 
 ## 🖥️ 프로젝트 소개
 공지사항 API를 ehcache를 활용한 캐싱, 인덱스를 만들어서 인덱싱으로 쿼리의 성능을 전과 후를 비교하며 성능 향상 및 nGrinder를 활용하여 부하테스트를 진행한 API 성능 개선 프로젝트
+
+<br>
+
+## 프로젝트 상세 페이지
+- https://www.notion.so/ef2ffe104f844f159b9bd81be8cc4a97?p=119fcb9cf8474a8aba817a50a6e920a9&pm=c
+
 <br>
 
 ### ⚙️ 개발 환경
